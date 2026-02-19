@@ -1,4 +1,4 @@
-# Yonghun Suh
+# Yong-Hun Suh
 
 **Doing [geo-info science stuff](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/geographical-information-science) in Germany**
 
