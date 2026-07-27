@@ -1,8 +1,8 @@
 # Yong-Hun Suh
 
-**Doing [geo-info science stuff](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/geographical-information-science) in Germany**
+**Doing [geo-info science stuff](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/geographical-information-science)**
 
-### Currently
+### Previously
 * Contributing to solving human problems through **geospatial data analysis** at [MPI-SP](https://www.mpi-sp.org/person/143156/75009).
     * Monitoring the North Korean economy through mining activities using **synthetic aperture radar (SAR)** and optical sensor imagery.
 * Involved in a community-based air quality project ([UB Clean Air](https://ubairqualitystudy.github.io/EPA-Website/index.html))
