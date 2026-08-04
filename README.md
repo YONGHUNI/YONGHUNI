@@ -1,17 +1,28 @@
 # Yong-Hun Suh
 
-**Doing [geo-info science stuff](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/geographical-information-science)**
+**Ph.D. student in Geography at the University of Georgia**
 
-### Previously
-* Contributing to solving human problems through **geospatial data analysis** at [MPI-SP](https://www.mpi-sp.org/person/143156/75009).
-    * Monitoring the North Korean economy through mining activities using **synthetic aperture radar (SAR)** and optical sensor imagery.
-* Involved in a community-based air quality project ([UB Clean Air](https://ubairqualitystudy.github.io/EPA-Website/index.html))
-    * Developed and maintain a fully automated, low-cost [data pipeline](https://github.com/YONGHUNI/rougue_PA_detector) and interactive [dashboard](https://github.com/YONGHUNI/Breathe-Buffalo) for the project, monitoring localized $PM_{2.5}$ variability.
+My research interests revolve around  the intersection of **GIScience**, **GeoAI**, **remote sensing**, **atmospheric science**, with an emphasis on **high-performance computing**, with an interest in scalable machine-learning approaches for environmental and spatiotemporal problems.
+
+### Research
+- Ph.D. student at the **University of Georgia**, working on geospatial AI and environmental/forecasting applications.
+- Previously a research intern at the **Max Planck Institute for Security and Privacy (MPI-SP)**.
+  * Monitored changes in North Korean mining activities.
+  * Mapped changes in WASH accessibility in Rohingya refugee camps. ([pre print](https://arxiv.org/abs/2511.07231), [code](https://github.com/DS4H-GIS/Refugee_WASH_Accessibility))
+- Former contributor to [**UB Clean Air**](https://ubairqualitystudy.github.io/EPA-Website/), a community-based air-quality monitoring project.
+  * Developed [automated data pipelines](https://github.com/YONGHUNI/rougue_PA_detector) and [an interactive dashboard](https://github.com/YONGHUNI/Breathe-Buffalo) for local PM2.5 monitoring.
+
+### Research Interests
+- GeoAI and GIScience
+- Remote Sensing and Earth Observation
+- Atmospheric and Environmental Modeling
+- High-Performance Geospatial Computing
+- Spatiotemporal Machine Learning
 
 ### Technical Skills
-* **Languages**: Python, R, C++, CUDA
-* **Systems**: Linux, GPU Cluster Management
-* **Domain**: Computational Geography, Remote Sensing
+- **Languages:** R, Python, Julia, Fortran, C++
+- **Geospatial:** GIS, remote sensing, spatial analysis, Earth observation
+- **Computing:** Linux, HPC, GPU computing, reproducible scientific workflows (Nix, Docker)
 <!--
 
 
